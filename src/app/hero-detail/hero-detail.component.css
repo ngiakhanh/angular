@@ -1,0 +1,27 @@
+/* HeroDetailComponent's private CSS styles */
+
+label {
+    display: inline-block;
+    width: 3em;
+    margin: .5em 0;
+    color: #607D8B;
+    font-weight: bold;
+}
+
+input {
+    height: 2em;
+    font-size: 1em;
+    padding-left: .4em;
+}
+
+.form-group {
+    max-width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.form-row {
+    max-width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
